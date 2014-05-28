@@ -14,3 +14,10 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+#ignore RubyMine IDE directory.
+/.idea/
+
+#ignore other files
+.DS_Store
+.swp
